@@ -1,9 +1,9 @@
-# readme genorator
+# ReadMe Generator
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-to generate a readme file
+ To help user create a proffesional ReadMe file fast and accurately
 
 ## Table of Contents 
 
@@ -24,7 +24,7 @@ to generate a readme file
 To install necessary dependencies, run the following command:
 
 ```
-none 
+
 ```
 
 ## Usage
@@ -43,11 +43,9 @@ This project is licensed under the MIT license.
 
 To run tests, run the following command:
 
-```
-undefined
-```
+
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at . You can find more of my work at [wj](https://github.com/wj/).
+If you have any questions about the repo, open an issue or contact me directly at Martinhc129@gmail.com. You can find more of my work at [Martin-Cuellar](https://github.com/Martin-Cuellar/).
 

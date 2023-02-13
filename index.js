@@ -26,11 +26,6 @@ const questions = [
         message: "What are the installation instructions for your project?",
     },
     {
-        type: "input",
-        name: "usage",
-        message: "What are the uses for your project?",
-    },
-    {
         type: "list",
         name: "license",
         message: "Select the license you used for this project.",
@@ -49,11 +44,6 @@ const questions = [
         type: "input",
         name: "tests",
         message: "Was there any testing done with this project?",
-    },
-    {
-        type: "input",
-        name: "questions",
-        message: "Where do I submit questions about this project?",
     },
     {
         type: "input",
